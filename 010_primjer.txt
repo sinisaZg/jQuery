@@ -1,0 +1,4 @@
+﻿Uz pomoć boostrapa kreirati dva stupca. U lijevom stupcu se nalazi button te tekst kao na slici:
+ 
+Nakon pritiska na button u desnom stupcu se pojavljuje lista proizvoda (a adresa i ime firme nestaju) dok s lijeve strane lijevog stupca ulazi animirani tekst „neka naši proizvodi rade za vas“ koji , nakon što je cijeli ušao na pozornicu, izlazi iz nje.
+ 
